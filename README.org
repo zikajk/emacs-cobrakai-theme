@@ -1,4 +1,4 @@
-# CobraKai-theme
+* CobraKai-theme
 
 CobraKai is a dark theme inspired by various Kanagawa themes and Nord theme.
 
